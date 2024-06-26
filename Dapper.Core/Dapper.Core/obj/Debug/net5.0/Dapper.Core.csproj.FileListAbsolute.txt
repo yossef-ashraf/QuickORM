@@ -1,0 +1,12 @@
+D:\Work\ITI\Dapper.Core\Dapper.Core\bin\Debug\net5.0\Dapper.Core.deps.json
+D:\Work\ITI\Dapper.Core\Dapper.Core\bin\Debug\net5.0\Dapper.Core.dll
+D:\Work\ITI\Dapper.Core\Dapper.Core\bin\Debug\net5.0\ref\Dapper.Core.dll
+D:\Work\ITI\Dapper.Core\Dapper.Core\bin\Debug\net5.0\Dapper.Core.pdb
+D:\Work\ITI\Dapper.Core\Dapper.Core\obj\Debug\net5.0\Dapper.Core.csprojAssemblyReference.cache
+D:\Work\ITI\Dapper.Core\Dapper.Core\obj\Debug\net5.0\Dapper.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ITI\Dapper.Core\Dapper.Core\obj\Debug\net5.0\Dapper.Core.AssemblyInfoInputs.cache
+D:\Work\ITI\Dapper.Core\Dapper.Core\obj\Debug\net5.0\Dapper.Core.AssemblyInfo.cs
+D:\Work\ITI\Dapper.Core\Dapper.Core\obj\Debug\net5.0\Dapper.Core.csproj.CoreCompileInputs.cache
+D:\Work\ITI\Dapper.Core\Dapper.Core\obj\Debug\net5.0\Dapper.Core.dll
+D:\Work\ITI\Dapper.Core\Dapper.Core\obj\Debug\net5.0\ref\Dapper.Core.dll
+D:\Work\ITI\Dapper.Core\Dapper.Core\obj\Debug\net5.0\Dapper.Core.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3C+dyUNZVGZ+alJEs0Ntd/SyHBOChH8eWGGI+lZoJq9fLHwxWQSP0fnBAlRDymym8fMysmLxsiEw5QqWY2QfDQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\ITI\\Dapper.Core\\Dapper.Core\\Dapper.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar Hassan\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Omar Hassan\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Omar Hassan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Omar Hassan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Omar Hassan\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
