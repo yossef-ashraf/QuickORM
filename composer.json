@@ -1,0 +1,16 @@
+{
+    "name": "yossef/dapper.php",
+    "description": "orm use php",
+    "autoload": {
+        "psr-4": {
+            "ORM\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "yossef-ashraf",
+            "email": "yossefff2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
