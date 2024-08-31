@@ -2,7 +2,8 @@
 
 namespace ORM\Src;
 
-class QueryBuilder
+class mkdir -p tests/Unit
+
 {
     protected $pdo;
     protected $query;
