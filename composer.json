@@ -1,6 +1,9 @@
 {
     "name": "db/orm",
     "description": "orm useing php",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "ORM\\": "./"
@@ -12,5 +15,7 @@
             "email": "yossefff2001@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+         "php": ">=7.2"
+    }
 }
