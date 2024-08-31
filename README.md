@@ -22,18 +22,7 @@ composer require db/orm
 
 ### Setting up a Database Connection
 
-Configure the database connection settings in your configuration file:
-
-```php
-use DB\ORM\Database;
-
-Database::configure([
-    'host' => 'localhost',
-    'dbname' => 'your_database_name',
-    'user' => 'your_database_user',
-    'password' => 'your_database_password',
-]);
-```
+Configure the database connection settings in your configuration in config/database.php ;
 
 ### Creating a Model
 
