@@ -1,6 +1,6 @@
 {
-    "name": "yossef/dapper.php",
-    "description": "orm use php",
+    "name": "db/orm",
+    "description": "orm useing php",
     "autoload": {
         "psr-4": {
             "ORM\\": "./"
