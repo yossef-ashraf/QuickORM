@@ -3,7 +3,7 @@
 
 namespace App\Models;
 
-use ORM\Src\Model;
+use QuickORM\Src\Model;
 
 class User extends Model
 {
