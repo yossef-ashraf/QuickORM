@@ -1,12 +1,12 @@
 {
-    "name": "db/orm",
+    "name": "quickhelper/quickorm",
     "description": "orm useing php",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "ORM\\": "./"
+            "QuickORM\\": "./"
         }
     },
     "authors": [
