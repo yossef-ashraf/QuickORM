@@ -1,8 +1,9 @@
 <?php 
 
-namespace ORM\Src;
+namespace QuickORM\Src;
 
-use ORM\Connection\Connection;
+use PDO;
+use QuickORM\Connection\Connection;
 use InvalidArgumentException;
 
 abstract class Model
@@ -18,9 +19,9 @@ abstract class Model
     protected $hidden = [];
     protected $casts = [];
 
-    public function __construct()
+    public function __construct(PDO $pdo) 
     {
-        $this->pdo = Connection::getInstance();
+        $this->pdo = Connection::getInstance() ?? $pdo;
         $this->boot();
     }
 
