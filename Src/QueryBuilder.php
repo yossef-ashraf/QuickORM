@@ -1,8 +1,8 @@
 <?php
 
-namespace ORM\Src;
+namespace QuickORM\Src;
 
-use ORM\Connection\Connection;
+use QuickORM\Connection\Connection;
 use PDO;
 use InvalidArgumentException;
 
@@ -21,9 +21,9 @@ class QueryBuilder
     protected $groups = [];
     protected $havings = [];
 
-    public function __construct()
+    public function __construct(PDO $pdo)
     {
-        $this->pdo = Connection::getInstance();
+        $this->pdo = Connection::getInstance() ?? $pdo;
     }
 
     public function select($columns = '*')
