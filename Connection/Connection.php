@@ -1,6 +1,6 @@
 <?php
 
-namespace ORM\Connection;
+namespace QuickORM\Connection;
 
 class Connection
 {
