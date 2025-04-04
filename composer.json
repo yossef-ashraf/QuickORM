@@ -1,6 +1,6 @@
 {
     "name": "quickhelper/quickorm",
-    "description": "orm useing php",
+    "description": "ORM to manipulate databases through code without needing to write SQL queries.",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
