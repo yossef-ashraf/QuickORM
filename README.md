@@ -12,10 +12,10 @@ This repository contains a project that leverages ORM (Object-Relational Mapping
 
 ## Installation
 
-To install `db/orm` via Composer, run the following command in your project directory:
+To install `quickhelper/quickorm` via Composer, run the following command in your project directory:
 
 ```bash
-composer require db/orm
+composer require quickhelper/quickorm
 ```
 
 ## Basic Usage
@@ -29,7 +29,7 @@ Configure the database connection settings in your configuration in config/datab
 Create a model that represents a table in your database:
 
 ```php
-use DB\ORM\Model;
+use QuickORM\Model;
 
 class User extends Model
 {
@@ -75,7 +75,7 @@ $user->delete();
 Use `QueryBuilder` to create custom SQL queries:
 
 ```php
-use DB\ORM\QueryBuilder;
+use QuickORM\QueryBuilder;
 
 $results = QueryBuilder::table('users')
     ->where('age', '>', 30)
@@ -130,7 +130,7 @@ class User extends Model
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yossef-ashraf/ORM.git
+    git clone https://github.com/yossef-ashraf/QuickORM.git
     ```
 
 2. **Environment Setup:**
@@ -143,8 +143,8 @@ class User extends Model
 
 We welcome contributions to enhance this project. If you would like to participate, please:
 
-- Open an [Issue](https://github.com/yossef-ashraf/ORM/issues) for any questions or feedback.
-- Submit a [Pull Request](https://github.com/yossef-ashraf/ORM/pulls) with your improvements.
+- Open an [Issue](https://github.com/yossef-ashraf/QuickORM/issues) for any questions or feedback.
+- Submit a [Pull Request](https://github.com/yossef-ashraf/QuickORM/pulls) with your improvements.
 
 ## License
 
