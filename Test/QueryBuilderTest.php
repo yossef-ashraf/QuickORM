@@ -1,9 +1,9 @@
 <?php
 
-namespace ORM\Test;
+namespace QuickORM\Test;
 
 use PHPUnit\Framework\TestCase;
-use ORM\Src\QueryBuilder;
+use QuickORM\Src\QueryBuilder;
 
 class QueryBuilderTest extends TestCase
 {

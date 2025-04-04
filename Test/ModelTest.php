@@ -1,10 +1,10 @@
 <?php
 
-namespace ORM\Test;
+namespace QuickORM\Test;
 
 use PHPUnit\Framework\TestCase;
-use ORM\Src\Model;
-use ORM\Connection\Connection;
+use QuickORM\Src\Model;
+use QuickORM\Connection\Connection;
 
 class ModelTest extends TestCase
 {
